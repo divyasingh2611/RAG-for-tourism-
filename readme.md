@@ -3,7 +3,7 @@
 This project implements a Tour Guide system using Retrieval-Augmented Generation (RAG) with the Mistral-7B-Instruct-v0.2 model and FAISS for efficient similarity search.
 
 
-- Dataset Link: [Tourism in India Dataset](https://drive.google.com/drive/folders/1uwD671XXOsbfk7SMRwXS99gfXQGaKfx-?usp=sharing)
+- Dataset Link: [VectorDB](https://drive.google.com/drive/folders/1uwD671XXOsbfk7SMRwXS99gfXQGaKfx-?usp=sharing)
 
 ## Features
 
